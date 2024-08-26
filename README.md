@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p>
-	🌐 Full-Stack Web Developer with a Focus on Frontend<br>
+	🌐 Software Developer with a Focus on Web Development<br>
 	🎓 University Technician In Programming<br>
 	💡 Passionate about Crafting User-Centric Solutions<br>
 	📈 Actively Learning about Efficient and Scalable System Design<br>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/owenvassarotto/"  target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
-**Portfolio**: [https://owenvassarotto.vercel.app/](https://owenvassarotto.vercel.app/)
+**Portfolio**: [https://owenvassarotto.vercel.app](https://owenvassarotto.vercel.app)
 
 ## 💻 My Tech Stack
 
